@@ -117,10 +117,23 @@ textarea {
 }
 
 .img1 {
+	position: absolute;
+	top: 450px;
+	left: 280px;
+	padding-left: 135px;
+	padding-right: 135px;
+	background-color: #4aaaa5;
+	color: white;
 
 }
 .img2 {
-
+	position: absolute;
+	top: 450px;
+	right: 390px;
+	padding-left: 160px;
+	padding-right: 160px;
+	background-color: #4aaaa5;
+	color: white;
 }
 
 
